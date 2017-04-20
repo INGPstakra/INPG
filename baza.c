@@ -5,7 +5,7 @@
 
 typedef struct wpis
     {
-    char imie[R];
+    char imie[H];
     char nazwisko[R];
     long nr;
     } wpis;
